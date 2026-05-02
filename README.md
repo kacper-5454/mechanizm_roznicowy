@@ -37,10 +37,10 @@ Mechanizm składa się z:
   ![Obudowa tył rysunek](./images/rear_cover_drawing_img.jpg)
 
 #Złożenie
-![Złożenie zamknięte](./images/mechanizm_roznicowy_zamkniety_img.jpg)
+![Złożenie zamknięte](./images/mechannizm_roznicowy_zamkniety_img.jpg)
 
-![Złożenie otwarte](./images/mechanizm_roznicowy_otwarty_img.jpg)
+![Złożenie otwarte](./images/mechannizm_roznicowy_otwarty_img.jpg)
 
-![Złożenie rysunek](./images/mechanizm_roznicowy_rysunek_img.jpg)
+![Złożenie rysunek](./images/mechanizm_rożnicowy_drawing_img.jpg)
 
-![Złożenie gif](./images/mechanizm_gif.jpg)
+![Złożenie gif](./images/mechanizm_gif.gif)
