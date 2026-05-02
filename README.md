@@ -1,2 +1,3 @@
-# mechanizm_roznicowy
-Projekt mechanizmu różnicowego w programie Inventor
+# Mechanizm różnicowy
+Projekt mechanizmu różnicowego w programie Inventor.
+
