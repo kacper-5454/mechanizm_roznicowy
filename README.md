@@ -1,5 +1,5 @@
-# Differential mechanism
-Differential mechanism project made in Inventor.
+# Differential
+Differential project made in Inventor.
 
 ![Working mechanism](./images/mechanizm_gif.gif)
 
