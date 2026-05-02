@@ -36,7 +36,7 @@ Mechanizm składa się z:
 
   ![Obudowa tył rysunek](./images/rear_cover_drawing_img.jpg)
 
-#Złożenie
+# Złożenie
 ![Złożenie zamknięte](./images/mechannizm_roznicowy_zamkniety_img.jpg)
 
 ![Złożenie otwarte](./images/mechannizm_roznicowy_otwarty_img.jpg)
