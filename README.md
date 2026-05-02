@@ -1,46 +1,46 @@
-# Mechanizm różnicowy
-Projekt mechanizmu różnicowego w programie Inventor.
+# Differential mechanism
+Differential mechanism project made in Inventor.
 
-![Działanie mechanizmu](./images/mechanizm_gif.gif)
+![Working mechanism](./images/mechanizm_gif.gif)
 
-# Części
-Mechanizm składa się z:
+# Parts
+The mechanism consists of:
 
-- Głównego wału
+- Main shaft
   
-  ![Główny wał](./images/shaft_img.jpg)
+  ![Main shaft](./images/shaft_img.jpg)
   
-  ![Główny wał](./images/shaft_drawing_img.jpg)
+  ![Main szaft drawing](./images/shaft_drawing_img.jpg)
 
-- Mocowania wału
+- Shaft fixture
 
-  ![Mocowanie wału](./images/shaft_fixture_img.jpg)
+  ![Shaft fixture](./images/shaft_fixture_img.jpg)
 
-- Dwóch kół zębatych znajdujących się w osi wału
+- Two bevel gears located in the shaft axis
 
-  ![Koło zebate 1](./images/bevel_gear_1_img.jpg)
+  ![Bevel gear 1](./images/bevel_gear_1_img.jpg)
 
-  ![Koło zębate 1](./images/bevel_gear_2_img.jpg)
+  ![Bevel gear 1](./images/bevel_gear_2_img.jpg)
 
-- Dwóch kół zębantych prostopadłych do wału
+- Two bevel gears perpendiculat to the shaft
 
-  ![Koło zębate ](./images/bevel_gear_long_img.jpg)
+  ![Bevel gear](./images/bevel_gear_long_img.jpg)
 
-- Przedniej obudowy
+- Housing
 
-  ![Obudowa przód](./images/housing_img.jpg)
+  ![Housing](./images/housing_img.jpg)
 
-- Tylniej obudowy
+- Rear cover
 
-  ![Obudowa tył](./images/rear_cover_img.jpg)
+  ![Rear cover](./images/rear_cover_img.jpg)
 
-  ![Obudowa tył rysunek](./images/rear_cover_drawing_img.jpg)
+  ![Rear cover drawing](./images/rear_cover_drawing_img.jpg)
 
-# Złożenie
-![Złożenie zamknięte](./images/mechannizm_roznicowy_zamkniety_img.jpg)
+# Assembly
+![Assembly closed](./images/mechannizm_roznicowy_zamkniety_img.jpg)
 
-![Złożenie otwarte](./images/mechannizm_roznicowy_otwarty_img.jpg)
+![Assembly open](./images/mechannizm_roznicowy_otwarty_img.jpg)
 
-![Złożenie rysunek](./images/mechanizm_rożnicowy_drawing_img.jpg)
+![Assembly drawing](./images/mechanizm_rożnicowy_drawing_img.jpg)
 
-![Złożenie gif](./images/mechanizm_gif.gif)
+![Assembly gif](./images/mechanizm_gif.gif)
