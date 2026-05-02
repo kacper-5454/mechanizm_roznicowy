@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.bak
+OldVersions/
+Backup/
+~*
+.DS_Store
+Thumbs.db
